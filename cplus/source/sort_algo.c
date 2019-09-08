@@ -153,5 +153,4 @@ void test_sort_algo()
 int main()
 {
     test_sort_algo();
-    // printf("%f\n", random(2,5));
 }
